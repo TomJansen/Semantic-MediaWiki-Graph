@@ -27,7 +27,7 @@ class SpecialSemanticMediaWikiGraph extends SpecialPage {
 <link href='" . $wgScriptPath . "/extensions/SemanticMediaWikiGraph/includes/css/screen.css' rel='stylesheet'>
 
 
-<script src='http://code.jquery.com/jquery.min.js'></script>
+<script src='https://code.jquery.com/jquery.min.js'></script>
 </head>
     <title>Title in the Browser</title>
 <body>
